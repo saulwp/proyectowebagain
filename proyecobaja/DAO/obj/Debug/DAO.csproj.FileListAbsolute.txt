@@ -1,0 +1,8 @@
+C:\Users\danie\source\repos\ProyectoCuarto\ProyectoCuarto\DAO\bin\Debug\DAO.dll
+C:\Users\danie\source\repos\ProyectoCuarto\ProyectoCuarto\DAO\bin\Debug\DAO.pdb
+C:\Users\danie\source\repos\ProyectoCuarto\ProyectoCuarto\DAO\bin\Debug\BO.dll
+C:\Users\danie\source\repos\ProyectoCuarto\ProyectoCuarto\DAO\bin\Debug\BO.pdb
+C:\Users\danie\source\repos\ProyectoCuarto\ProyectoCuarto\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\danie\source\repos\ProyectoCuarto\ProyectoCuarto\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ProyectoCuarto\ProyectoCuarto\DAO\obj\Debug\DAO.dll
+C:\Users\danie\source\repos\ProyectoCuarto\ProyectoCuarto\DAO\obj\Debug\DAO.pdb

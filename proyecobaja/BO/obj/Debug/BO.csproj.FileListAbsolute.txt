@@ -1,0 +1,6 @@
+C:\Users\danie\source\repos\ProyectoCuarto\ProyectoCuarto\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\danie\source\repos\ProyectoCuarto\ProyectoCuarto\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ProyectoCuarto\ProyectoCuarto\BO\bin\Debug\BO.dll
+C:\Users\danie\source\repos\ProyectoCuarto\ProyectoCuarto\BO\bin\Debug\BO.pdb
+C:\Users\danie\source\repos\ProyectoCuarto\ProyectoCuarto\BO\obj\Debug\BO.dll
+C:\Users\danie\source\repos\ProyectoCuarto\ProyectoCuarto\BO\obj\Debug\BO.pdb

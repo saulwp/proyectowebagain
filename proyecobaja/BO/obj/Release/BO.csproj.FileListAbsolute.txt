@@ -1,0 +1,6 @@
+C:\Users\danie\source\repos\ProyectoCuarto\ProyectoCuarto\BO\bin\Release\BO.dll
+C:\Users\danie\source\repos\ProyectoCuarto\ProyectoCuarto\BO\bin\Release\BO.pdb
+C:\Users\danie\source\repos\ProyectoCuarto\ProyectoCuarto\BO\obj\Release\BO.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ProyectoCuarto\ProyectoCuarto\BO\obj\Release\BO.dll
+C:\Users\danie\source\repos\ProyectoCuarto\ProyectoCuarto\BO\obj\Release\BO.pdb
+C:\Users\danie\source\repos\ProyectoCuarto\ProyectoCuarto\BO\obj\Release\BO.csprojResolveAssemblyReference.cache
