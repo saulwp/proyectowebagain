@@ -207,6 +207,8 @@
     <Content Include="Content\assets\plugins\masonry.pkgd.min.js" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\demo.css" />
+    <Content Include="Content\material-dashboard.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -232,6 +234,15 @@
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\jsbe\arrive.min.js" />
+    <Content Include="Scripts\jsbe\bootstrap-notify.js" />
+    <Content Include="Scripts\jsbe\bootstrap.min.js" />
+    <Content Include="Scripts\jsbe\chartist.min.js" />
+    <Content Include="Scripts\jsbe\demo.js" />
+    <Content Include="Scripts\jsbe\jquery-3.2.1.min.js" />
+    <Content Include="Scripts\jsbe\material-dashboard.js" />
+    <Content Include="Scripts\jsbe\material.min.js" />
+    <Content Include="Scripts\jsbe\perfect-scrollbar.jquery.min.js" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
@@ -251,6 +262,7 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Shared\master.cshtml" />
     <Content Include="Views\Home\pruebin.cshtml" />
+    <Content Include="Views\Shared\MasterBackend.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
